@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_scaffold">Scaffold</string>
+    <string name="title_activity_devices">Devices</string>
+    <string name="title_activity_chose_device">ChoseDevice</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_add_group">AddGroupActivity</string>
+    <string name="title_activity_list_devices_group">ListDevicesGroupActivity</string>
+    <string name="title_activity_list_groups">ListGroupsActivity</string>
+    <string name="title_activity_name_device">NameDevice</string>
+    
+    <string name="already_have_an_account">Have an account? Sign In</string>
+    <string name="not_have_an_account">Don\'t have an account? Sign Up</string>
+    <string name="title_activity_location_tab">LocationTab</string>
+
+</resources>

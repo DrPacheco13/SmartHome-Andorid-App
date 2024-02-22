@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738189153187",
+    "project_id": "cmu-group9",
+    "storage_bucket": "cmu-group9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738189153187:android:ba9c4acc75cd8447964016",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738189153187-i6ad90fl1u2u42o6nr03tj56m7opfp6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEnaZDUgo_bUPfUU47nwMMXKjkdYOP-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738189153187-i6ad90fl1u2u42o6nr03tj56m7opfp6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
